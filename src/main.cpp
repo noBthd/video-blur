@@ -4,7 +4,7 @@
 
 
 int main() {
-    cv::Mat img = cv::imread("/Users/egorkirichenko/Projects/C++/video-blur/img/IMG_0428.JPG");
+    cv::Mat img = cv::imread("/Users/egorkirichenko/Projects/C++/video-blur/img/IMG_0428.JPG", cv::IMREAD_ANYDEPTH);
 
     cv::imshow("window", img);
 
