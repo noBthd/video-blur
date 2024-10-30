@@ -823,32 +823,26 @@ CMakeFiles/main.dir/src/main.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdarg \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/highgui.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cvdef.h \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/version.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/hal/interface.h \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cv_cpu_dispatch.h \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/arm_neon.h \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/arm_bf16.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/base.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/opencv_modules.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cvstd.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cvstd_wrapper.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/neon_utils.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/vsx_utils.hpp \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/assert.h \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/check.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/traits.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/matx.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/saturate.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/fast_math.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/types.hpp \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cfloat \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/float.h \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/float.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/float.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/fstream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/filesystem \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/directory_entry.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/file_status.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/file_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/perms.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/file_time_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/path.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iomanip \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/operations.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/perm_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/space_info.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/directory_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_fwd.h \
@@ -872,8 +866,34 @@ CMakeFiles/main.dir/src/main.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/unicode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/extended_grapheme_cluster_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__split_buffer \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/highgui.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cvdef.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/version.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/hal/interface.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cv_cpu_dispatch.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/arm_neon.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/arm_bf16.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/base.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/opencv_modules.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cvstd.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cvstd_wrapper.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/neon_utils.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/vsx_utils.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/assert.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/check.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/traits.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/matx.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/saturate.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/fast_math.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/types.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cfloat \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/float.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/float.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/float.h \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/mat.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/bufferpool.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/mat.inl.hpp \
@@ -912,4 +932,103 @@ CMakeFiles/main.dir/src/main.cpp.o: \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/optim.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/ovx.hpp \
   /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/imgcodecs.hpp \
-  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/videoio.hpp
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/videoio.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/face.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/dnn.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/async.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/calendar.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/convert_to_tm.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/concepts.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/weekday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month_day.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/../dnn/version.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/dict.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/map \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tree \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/layer.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/dnn.inl.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/utils/inference_engine.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/dnn/utils/../dnn.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/opencv.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/calib3d.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/features2d.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/miniflann.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/defines.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/config.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/affine.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/flann_base.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/general.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/matrix.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/params.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/any.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/saving.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/nn_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/result_set.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/set \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/all_indices.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/kdtree_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/dynamic_bitset.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/dist.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/heap.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/allocator.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/random.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/kdtree_single_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/kmeans_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/logger.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/composite_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/linear_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/hierarchical_clustering_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/lsh_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/lsh_table.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/autotuned_index.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/ground_truth.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/index_testing.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/timer.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/flann/sampling.h \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/imgproc.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/./imgproc/segmentation.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/ml.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/ml/ml.inl.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/aruco_detector.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/aruco_dictionary.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/aruco_board.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/graphical_code_detector.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/detection_based_tracker.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/charuco_detector.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/objdetect/barcode.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/photo.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/warpers.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/warpers.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cuda.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cuda_types.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/core/cuda.inl.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/warpers_inl.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/matchers.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/motion_estimators.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/util.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/list \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/util_inl.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/queue \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/deque \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/camera.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/exposure_compensate.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/seam_finders.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/stitching/detail/blenders.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/video.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/video/tracking.hpp \
+  /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/include/opencv2/video/background_segm.hpp

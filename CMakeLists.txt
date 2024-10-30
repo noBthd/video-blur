@@ -13,6 +13,6 @@ add_executable(main
     src/main.cpp
 )
 
-target_link_libraries(main PRIVATE opencv_core opencv_imgcodecs opencv_highgui)
+target_link_libraries(main PRIVATE opencv_core opencv_imgcodecs opencv_highgui opencv_core opencv_videoio opencv_objdetect opencv_dnn)
 
 
