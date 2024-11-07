@@ -95,7 +95,6 @@ main: CMakeFiles/main.dir/build.make
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_core4d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_imgcodecs4d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_highgui4d.a
-main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_core4d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_videoio4d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_objdetect4d.a
 main: /Users/egorkirichenko/.vcpkg/vcpkg/installed/arm64-osx/debug/lib/libopencv_dnn4d.a
